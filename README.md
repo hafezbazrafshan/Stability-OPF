@@ -9,9 +9,9 @@ This code supplements the material presented in the following publications:
 # Usage
 1. Open main_script.m. 
 2. You can choose either of the following casefiles. The casefiles are located in Stability-OPF/casefiles
-..* case9wmac_con
-..* case14wmac_con
-..* case39wmac_con
+  * case9wmac_con
+  * case14wmac_con
+  * case39wmac_con
 3. Select `stcontrol='OPF'` or `stcontrol='LQR-OPF'`. 
 4. Select `lfcontrol='LQR'`. 
 5. Choose the coupling parameter `alpha=0` (or any other value between 0 and 1). 
