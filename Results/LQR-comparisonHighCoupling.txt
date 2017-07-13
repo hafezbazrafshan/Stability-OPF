@@ -1,0 +1,7 @@
+Network              & Method     & ss-cost    & st-cost              & total cost            & max freq dev.        & max volt. dev.       
+case9wmac_con        & lqr-opf    & 6160.92    & 19.51                & 6180.43               & 0.0134                0.02                
+case9wmac_con        & opf        & 6113.60    & 365.13               & 6478.73               & 0.0200                0.12                
+case14wmac_con       & lqr-opf    & 9212.36    & 15.29                & 9227.65               & 0.0031                0.03                
+case14wmac_con       & opf        & 9127.35    & 300.15               & 9427.49               & 0.0118                0.03                
+case39wmac_con       & lqr-opf    & 52813.11   & 10713.81             & 63526.93              & 0.0786                0.12                
+case39wmac_con       & opf        & 51569.13   & 30595.90             & 82165.03              & 0.1356                0.13                
