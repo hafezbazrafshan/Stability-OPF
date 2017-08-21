@@ -1,7 +1,8 @@
 clear all;
 clc;
 alpha=0;
-casefiles={'case9wmac_con'; 'case14wmac_con';'case39wmac_con'};
+% casefiles={'case9wmac_con'; 'case14wmac_con';'case39wmac_con'};
+casefiles={'case14wmac_con'}; 
 
 lfcontrol='LQR';
 fileID=fopen('Results/LQR-NoCoupling.txt','w'); 
